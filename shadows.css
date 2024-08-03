@@ -1,0 +1,9 @@
+
+:root {
+    --shadow-button: 0 0 0 0 rgba(0,0,0,0.01); /* Default button */  
+
+    --shadow-panel: inset 0 1px 0 0 rgba(255,255,255,0.01), inset 0 0 0 1px rgba(255,255,255,0.01), 0 0 0 1px rgba(0,0,0,0.02), 0 2px 2px 0 rgba(0,0,0,0.02), 0 4px 4px 0 rgba(0,0,0,0.02), 0 8px 8px 0 rgba(0,0,0,0.02);   
+
+    --shadow-button-float: inset 0 1px 1px 0 rgba(255,255,255,0.07), 0 2px 4px 0 rgba(0,0,0,0.17); /* Modify button for attention */  
+
+}
